@@ -1,0 +1,7 @@
+{
+  "videoId": "test-123",
+  "avatarKey": "test.mp4",
+  "text": "Test Overlay",
+  "textPosition": "middle",
+  "textFormat": "basic"
+}
